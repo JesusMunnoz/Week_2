@@ -1,5 +1,5 @@
 class Person {
-    constructor(nm, snm1, snm2, w, h, yob, hobbies){
+    constructor(nm, snm1, snm2, w, h, yob){
         this.name = nm;
         this.surname1 = snm1;
         this.surname2 = snm2;
@@ -31,4 +31,4 @@ class Person {
     }
 }
 
-module.exports = Person
+module.exports = Person;

@@ -1,6 +1,6 @@
 let Padre = require('./export');
 
-let padrecillo = new Padre("Yo soy tu padre");
+let padrecillo = new Padre("Yo soy tu padre y me da igual como se escriban vuestros nombres");
 
 padrecillo.decirFrasecita();
 
