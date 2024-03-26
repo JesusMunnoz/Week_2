@@ -14,5 +14,3 @@ export class Contacts {
         console.log (this.people.push(people));
     }
 }
-
-
