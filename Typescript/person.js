@@ -25,6 +25,20 @@ var Person = /** @class */ (function () {
     return Person;
 }());
 exports.Person = Person;
+/*class Contacts {
+    //atributos
+    public people : Person[];
+
+    //constructor
+    constructor (){
+        this.people = [];
+    }
+
+    //metodos
+    public printcalendar(people : Person) : void{
+        console.log (this.people.push(people));
+    }
+}*/
 /*let p1 : Person = new Person("Juan", 23, "Avenida America");
 p1.printname();
 console.log(p1.yearOfBirth(2024));

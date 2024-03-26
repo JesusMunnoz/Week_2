@@ -6,3 +6,5 @@ console.log(p1.yearOfBirth(2024));
 console.log(p1.getAddress());
 p1.setAddress("Doctor Esquerdo")
 console.log(p1.getAddress());
+
+let p2 : Person = new Person("Juan", 45, "Avenida America");
