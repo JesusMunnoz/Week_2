@@ -13,3 +13,4 @@ console.log(bookLibrary.toStringlibroteca()); //Book1+ Address & Editor   Book2+
 console.log(bookLibrary.getNumberOfBooks()); //2
 
 console.log(bookLibrary.findByAuthor("Pilar Mateos"));
+console.log(bookLibrary.findByAuthor("Joseph Smith"));
